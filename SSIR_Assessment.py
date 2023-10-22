@@ -11,6 +11,7 @@ from skimage.metrics import structural_similarity
 from skimage.metrics import peak_signal_noise_ratio
 from tqdm import tqdm
 
+
 def deal(data,filename):
 
     company_name_list = data
@@ -18,7 +19,6 @@ def deal(data,filename):
     df = pd.DataFrame(company_name_list)
 
     df.to_excel(filename, index=False)
-from image_similarity_measures.evaluate import evaluation
 ff_HR = ["F:/MTF/HR_x2/"]
 ff_solved = ["F:/MTF/SSIR_results/"]
 file_output = ['F:/MTF/assessment.xlsx']

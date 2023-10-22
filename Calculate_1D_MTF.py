@@ -307,13 +307,15 @@ class Compute_MTF(object):
         x_mtf_final = np.arange(0,1,1./127)
         mtf_final = mtf_final[1024:1151]/np.amax(mtf_final[1024:1151])
         mtf_final_smooth = mtf_final_smooth[1024:1151]/np.amax(mtf_final_smooth[1024:1151])
+        MTF_withfrequency = list(zip(x_mtf_final,mtf_final_smooth))
         plt.plot(x_mtf_final, mtf_final_smooth, linewidth=1.5, color='black')
         plt.xlabel("cycles/pixel")
         plt.ylabel("Modulation Factor")
         blue_patch = mpatches.Patch(color='black', label='MTF')
         plt.legend(handles=[blue_patch])
         plt.show()
-        return mtf_final_smooth
+        # return mtf_final_smooth
+        return MTF_withfrequency
 #
 if __name__ == '__main__':
 

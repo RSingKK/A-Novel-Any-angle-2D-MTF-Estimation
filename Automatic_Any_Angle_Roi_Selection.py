@@ -67,7 +67,7 @@ file = ['KX10_MII_20230115_E116.53_N40.53_202300007610_L1B']  ### Example Input 
 i = 0
 j = 0
 angle = []
-for file_i in range(3):
+for file_i in range(1):
     print("read filename: " + file[file_i])
     input_scene = 'F:/MTF/' + file[file_i] + '/B1_new.tif'
     dataset = gdal.Open(input_scene)
