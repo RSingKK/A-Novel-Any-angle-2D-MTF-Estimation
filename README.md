@@ -9,7 +9,7 @@ V1.0
 5. Step Five: SSIR_Assessment.py
 
 We will release V2.0 soon.
-
+https://imgsli.com/i/d786e4f5-8d62-4a8f-8a3d-77b7b7b144cb.jpg
 
 More qualitative and quantitative comparison results on public datasets (Ucmerced dataset, WHU-RS19 dataset, and RSSCN7 dataset) are shown as follows. / denotes that the result has been distorted.
 
