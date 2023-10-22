@@ -1,5 +1,5 @@
 # A Novel Any-angle 2D MTF Estimation for Single Satellite Image Super-Resolution
-python supported
+Python Supported
 
 V1.0
 1. Step one: Automaticly extract edge-objects with any-angle. Automatic_Any_Angle_Roi_Selection.py
