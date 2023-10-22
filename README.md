@@ -2,11 +2,11 @@
 python supported
 
 V1.0
-Step one: Automatic_Any_Angle_Roi_Selection.py
-Step Two: Calculate_1D_MTF.py
-Step Three: Fit_Gaussian_2D_MTF.py
-Step Four: Image_MTF_SSIR.py
-Step Five: SSIR_Assessment.py
+1. Step one: Automatic_Any_Angle_Roi_Selection.py
+2. Step Two: Calculate_1D_MTF.py
+3. Step Three: Fit_Gaussian_2D_MTF.py
+4. Step Four: Image_MTF_SSIR.py
+5. Step Five: SSIR_Assessment.py
 We will release V2.0 soon.
 
 
