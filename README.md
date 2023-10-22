@@ -2,10 +2,10 @@
 python supported
 
 V1.0
-1. Step one: Automatic_Any_Angle_Roi_Selection.py
-2. Step Two: Calculate_1D_MTF.py
-3. Step Three: Fit_Gaussian_2D_MTF.py
-4. Step Four: Image_MTF_SSIR.py
+1. Step one: Automaticly extract edge-objects with any-angle. Automatic_Any_Angle_Roi_Selection.py
+2. Step Two: Calculate 1D MTF of each edge-object with any-angle. Calculate_1D_MTF.py
+3. Step Three: Use two demisional Gaussian function to estimate 2D MTF. Fit_Gaussian_2D_MTF.py
+4. Step Four: Perform SSIR on single satellite scene image. Image_MTF_SSIR.py
 5. Step Five: SSIR_Assessment.py
 
 We will release V2.0 soon.
