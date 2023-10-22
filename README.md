@@ -7,7 +7,8 @@ V1.0
 3. Step Three: Fit_Gaussian_2D_MTF.py
 4. Step Four: Image_MTF_SSIR.py
 5. Step Five: SSIR_Assessment.py
-/ We will release V2.0 soon.
+
+We will release V2.0 soon.
 
 
 More qualitative and quantitative comparison results on public datasets (Ucmerced dataset, WHU-RS19 dataset, and RSSCN7 dataset) are shown as follows. / denotes that the result has been distorted.
