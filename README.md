@@ -1,6 +1,14 @@
 # A Novel Any-angle 2D MTF Estimation for Single Satellite Image Super-Resolution
 python supported
 
+V1.0
+Step one: Automatic_Any_Angle_Roi_Selection.py
+Step Two: Calculate_1D_MTF.py
+Step Three: Fit_Gaussian_2D_MTF.py
+Step Four: Image_MTF_SSIR.py
+Step Five: SSIR_Assessment.py
+We will release V2.0 soon.
+
 
 More qualitative and quantitative comparison results on public datasets (Ucmerced dataset, WHU-RS19 dataset, and RSSCN7 dataset) are shown as follows. / denotes that the result has been distorted.
 
