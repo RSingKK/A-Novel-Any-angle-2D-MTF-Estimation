@@ -12,12 +12,13 @@
 More qualitative and quantitative comparison results on public datasets (Ucmerced dataset, WHU-RS19 dataset, and RSSCN7 dataset) are shown as follows. / denotes that the result has been distorted.
 
 
-
+<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20picture/parkinglot_compare.png?raw=true" width="300px">
 [![parkinglot](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20picture/parkinglot_compare.png?raw=true)](https://imgsli.com/MjE1NzI2)
 
+<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20picture/airport_compare.png?raw=true" width="300px">
 [![airport](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20picture/airport_compare.png?raw=true)](https://imgsli.com/MjE1NzM0)
 
-[![airport](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20picture/airport_compare.png)](https://imgsli.com/MjE1NzM0)
+
 
 ### 1. UCMerced Dataset
 
