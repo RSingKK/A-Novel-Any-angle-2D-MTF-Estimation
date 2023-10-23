@@ -16,7 +16,7 @@ More qualitative and quantitative comparison results on public datasets (Ucmerce
 [![parkinglot](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20picture/parkinglot_compare.png?raw=true](https://imgsli.com/MjE1NzIw)
 
 
-[![airport](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20picture/airport_compare.png?raw=true](https://imgsli.com/MjE1NzI3)
+
 
 ### 1. UCMerced Dataset
 
