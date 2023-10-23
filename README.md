@@ -7,6 +7,8 @@
 4. Step Four: Perform SSIR on single satellite scene image. Image_MTF_SSIR.py
 5. Step Five: SSIR_Assessment.py
 
+**The advantages of Ours Method are that not only can directly perform SSIR on single satellite scene image but also can retain origin radiometric information as much as possible.**
+
 ## 2. Results Presentation
 
 ### SSIR Processing Steps
