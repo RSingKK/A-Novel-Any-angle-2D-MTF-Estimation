@@ -47,14 +47,14 @@ More qualitative and quantitative comparison results on public datasets (Ucmerce
 
 ### 3.2. WHU-RS19 Dataset
 
-![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/60ad4122-b1cf-45e7-939a-7a27bdd12bf8)
-![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/aca8b69d-c5d3-484f-a0f8-ad1f99594032)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/Desert_20.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/Desert_20x.png?raw=true)
 
-![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/7a53183a-41a0-41d5-a58c-bcc5bf20cddc)
-![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/0cee8a11-b196-4c62-a121-01af647bf53e)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/river_21.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/river_21x.png?raw=true)
 
-![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/d5e79d27-311c-4ad3-b87a-1dad511104e3)
-![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/6d76df4e-cd1e-4ddb-9a42-9b16282b757b)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/Mountain_01.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/Mountain_01x.png?raw=true)
 
 ### 3.3. RSSCN7 Dataset
 
