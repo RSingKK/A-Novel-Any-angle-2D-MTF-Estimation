@@ -12,7 +12,9 @@
 More qualitative and quantitative comparison results on public datasets (Ucmerced dataset, WHU-RS19 dataset, and RSSCN7 dataset) are shown as follows. / denotes that the result has been distorted.
 
 
-[![1698030365139](https://github.com/RSingKK/Any-angle-MTF/assets/49096921/052d45c4-446d-48b7-b090-1e60214057f4)](https://imgsli.com/MjE1NzIw)
+
+[![parkinglot](https://github.com/RSingKK/Any-angle-MTF/blob/main/compare.png?raw=true)](https://imgsli.com/MjE1NzIw)
+
 
 ### 1. UCMerced Dataset
 
