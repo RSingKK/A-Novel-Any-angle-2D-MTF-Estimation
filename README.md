@@ -14,6 +14,9 @@ More qualitative and quantitative comparison results on public datasets (Ucmerce
 [![parkinglot](https://imgsli.com/i/2dffb876-3069-41d6-86a4-db1ad31b883c.jpg)](https://imgsli.com/MjE1NzE0)
 
 
+
+[![bad](https://github.com/RSingKK/Any-angle-MTF/assets/49096921/249141a4-1c29-4f1e-a8f2-c2c76eb2a22f)](https://imgsli.com/MjE1NzE0)
+
 ### 1. UCMerced Dataset
 
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/30fce002-b4fd-4568-a8c5-f24686ad996d)
