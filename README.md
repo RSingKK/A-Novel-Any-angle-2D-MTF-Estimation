@@ -11,8 +11,6 @@ V1.0
 
 <iframe src="https://imgsli.com/MjE1NjIx" width="100%" height="300"></iframe>
 
-
-
 More qualitative and quantitative comparison results on public datasets (Ucmerced dataset, WHU-RS19 dataset, and RSSCN7 dataset) are shown as follows. / denotes that the result has been distorted.
 
 1. UCMerced Dataset
