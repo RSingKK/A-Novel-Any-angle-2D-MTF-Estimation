@@ -27,23 +27,23 @@ More qualitative and quantitative comparison results on public datasets (Ucmerce
 
 ### 3.1. UCMerced Dataset
 
-![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/30fce002-b4fd-4568-a8c5-f24686ad996d)
-![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/e656e732-79cd-4fb2-80f2-005719126700)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/airplane51.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/airplane51x.png?raw=true)
 
-![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/d14c1654-306d-49d1-9bba-4161478b9563)
-![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/6d0bb861-8232-45fb-beba-4d15ba624319)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/beach75.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/beach75x.png?raw=true)
 
-![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/6075e6ab-4a18-4568-a98f-5219c61b65ca)
-![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/f6ace178-f4a3-42e4-a1ba-caed8ab41da6)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/beach85.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/beach85x.png?raw=true)
 
-![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/aca245d8-4cb5-4095-946b-b9a7dd0953fd)
-![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/7f3f91e8-74f4-4069-b769-5c247dd462a3)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/chaparral66.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/chaparral66x.png?raw=true)
 
-![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/bf18e81b-776d-4f5c-9520-a3a04f82312a)
-![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/e9cd0041-10f8-4126-a287-1fa17ce6a885)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/parkinglot50.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/parkinglot50x.png?raw=true)
 
-![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/43dec535-55d7-479d-91da-01ced586d41c)
-![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/576f1365-7e72-4473-8ad6-cd0ec9db9fcd)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/sparseresidential99.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/sparseresidential99x.png?raw=true)
 
 ### 3.2. WHU-RS19 Dataset
 
