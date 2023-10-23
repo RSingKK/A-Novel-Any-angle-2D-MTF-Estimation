@@ -1,51 +1,37 @@
 # A Novel Any-angle 2D MTF Estimation for Single Satellite Image Super-Resolution
-Python Supported
-=
+## 1. Python Supported
 
-V1.0
 1. Step one: Automaticly extract edge-objects with any-angle. Automatic_Any_Angle_Roi_Selection.py
 2. Step Two: Calculate 1D MTF of each edge-object with any-angle. Calculate_1D_MTF.py
 3. Step Three: Use two demisional Gaussian function to estimate 2D MTF. Fit_Gaussian_2D_MTF.py
 4. Step Four: Perform SSIR on single satellite scene image. Image_MTF_SSIR.py
 5. Step Five: SSIR_Assessment.py
 
-<iframe src="https://imgsli.com/MjE1NjIx" width="100%" height="300"></iframe>
 
+## 2. More Comparison Results
 More qualitative and quantitative comparison results on public datasets (Ucmerced dataset, WHU-RS19 dataset, and RSSCN7 dataset) are shown as follows. / denotes that the result has been distorted.
 
-1. UCMerced Dataset
+### 1. UCMerced Dataset
 
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/30fce002-b4fd-4568-a8c5-f24686ad996d)
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/e656e732-79cd-4fb2-80f2-005719126700)
 
-
-
-
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/d14c1654-306d-49d1-9bba-4161478b9563)
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/6d0bb861-8232-45fb-beba-4d15ba624319)
-
-
-
 
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/6075e6ab-4a18-4568-a98f-5219c61b65ca)
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/f6ace178-f4a3-42e4-a1ba-caed8ab41da6)
 
-
-
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/aca245d8-4cb5-4095-946b-b9a7dd0953fd)
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/7f3f91e8-74f4-4069-b769-5c247dd462a3)
-
-
 
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/bf18e81b-776d-4f5c-9520-a3a04f82312a)
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/e9cd0041-10f8-4126-a287-1fa17ce6a885)
 
-
-
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/43dec535-55d7-479d-91da-01ced586d41c)
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/576f1365-7e72-4473-8ad6-cd0ec9db9fcd)
 
-2. WHU-RS19 Dataset
+### 2. WHU-RS19 Dataset
 
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/60ad4122-b1cf-45e7-939a-7a27bdd12bf8)
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/aca8b69d-c5d3-484f-a0f8-ad1f99594032)
@@ -56,7 +42,7 @@ More qualitative and quantitative comparison results on public datasets (Ucmerce
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/d5e79d27-311c-4ad3-b87a-1dad511104e3)
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/6d76df4e-cd1e-4ddb-9a42-9b16282b757b)
 
-3. RSSCN7 Dataset
+### 3. RSSCN7 Dataset
 
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/231edc0b-2ac6-47c1-a3cc-3a4ede7498a8)
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/cb3e8afe-a30d-4959-afb0-d880107ebd8f)
