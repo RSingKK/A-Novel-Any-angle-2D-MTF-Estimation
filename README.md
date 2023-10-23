@@ -8,6 +8,10 @@
 5. Step Five: SSIR_Assessment.py
 
 ## 2. Results Presentation
+### SSIR Processing Steps
+![airplane](https://github.com/RSingKK/Any-angle-MTF/assets/49096921/c041c5b6-567f-42d1-9878-6c528355c3e5)
+
+
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20picture/airport_compare.png?raw=true" width="500px">](https://imgsli.com/MjE1NzM0)
 
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20picture/parkinglot_compare.png?raw=true" width="500px">](https://imgsli.com/MjE1NzI2)
