@@ -1,5 +1,6 @@
 # A Novel Any-angle 2D MTF Estimation for Single Satellite Image Super-Resolution
 Python Supported
+=
 
 V1.0
 1. Step one: Automaticly extract edge-objects with any-angle. Automatic_Any_Angle_Roi_Selection.py
@@ -8,12 +9,8 @@ V1.0
 4. Step Four: Perform SSIR on single satellite scene image. Image_MTF_SSIR.py
 5. Step Five: SSIR_Assessment.py
 
-We will release V2.0 soon.
+<iframe src="https://imgsli.com/MjE1NjIx" width="100%" height="300"></iframe>
 
-
-![1697995613378](https://github.com/RSingKK/Any-angle-MTF/assets/49096921/902e19f4-a780-4b40-b685-08f10ac40d5e)
-
-https://imgsli.com/MjE1NjIx
 
 
 More qualitative and quantitative comparison results on public datasets (Ucmerced dataset, WHU-RS19 dataset, and RSSCN7 dataset) are shown as follows. / denotes that the result has been distorted.
