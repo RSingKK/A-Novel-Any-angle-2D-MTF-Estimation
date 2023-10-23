@@ -7,17 +7,16 @@
 4. Step Four: Perform SSIR on single satellite scene image. Image_MTF_SSIR.py
 5. Step Five: SSIR_Assessment.py
 
-
-## 2. More Comparison Results
-More qualitative and quantitative comparison results on public datasets (Ucmerced dataset, WHU-RS19 dataset, and RSSCN7 dataset) are shown as follows. / denotes that the result has been distorted.
-
-
+## 2. Results Presentation
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20picture/airport_compare.png?raw=true" width="500px">](https://imgsli.com/MjE1NzM0)
 
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20picture/parkinglot_compare.png?raw=true" width="500px">](https://imgsli.com/MjE1NzI2)
 
+## 3. More Comparison Results
+More qualitative and quantitative comparison results on public datasets (Ucmerced dataset, WHU-RS19 dataset, and RSSCN7 dataset) are shown as follows. / denotes that the result has been distorted.
 
-### 1. UCMerced Dataset
+
+### 3.1. UCMerced Dataset
 
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/30fce002-b4fd-4568-a8c5-f24686ad996d)
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/e656e732-79cd-4fb2-80f2-005719126700)
@@ -37,7 +36,7 @@ More qualitative and quantitative comparison results on public datasets (Ucmerce
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/43dec535-55d7-479d-91da-01ced586d41c)
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/576f1365-7e72-4473-8ad6-cd0ec9db9fcd)
 
-### 2. WHU-RS19 Dataset
+### 3.2. WHU-RS19 Dataset
 
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/60ad4122-b1cf-45e7-939a-7a27bdd12bf8)
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/aca8b69d-c5d3-484f-a0f8-ad1f99594032)
@@ -48,7 +47,7 @@ More qualitative and quantitative comparison results on public datasets (Ucmerce
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/d5e79d27-311c-4ad3-b87a-1dad511104e3)
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/6d76df4e-cd1e-4ddb-9a42-9b16282b757b)
 
-### 3. RSSCN7 Dataset
+### 3.3. RSSCN7 Dataset
 
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/231edc0b-2ac6-47c1-a3cc-3a4ede7498a8)
 ![image](https://github.com/RSingKK/A-Novel-Any-angle-2D-MTF-Estimation/assets/49096921/cb3e8afe-a30d-4959-afb0-d880107ebd8f)
