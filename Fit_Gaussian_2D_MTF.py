@@ -21,7 +21,7 @@ grad_a = 0; grad_b = 0; grad_c = 0; grad_d = 0; grad_e = 0
 grad_a_2 = 0; grad_b_2 = 0; grad_c_2 = 0; grad_d_2 = 0; grad_e_2 = 0
 
 time = 1
-theta = 0.005
+theta = 0.01
 
 sum_all = []
 
