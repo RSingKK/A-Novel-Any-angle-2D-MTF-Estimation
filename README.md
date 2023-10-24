@@ -32,7 +32,7 @@
 ![sparseresidential_gif](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/sparseresidential_gif.gif?raw=true)
 
 ## 3. More Comparison Results
-More qualitative and quantitative comparison results on SDGSAT-1 and public datasets (Ucmerced dataset, WHU-RS19 dataset, and RSSCN7 dataset) are shown as follows. `/` denotes that the result is distorted.
+More qualitative and quantitative comparison results on SDGSAT-1 satellite and public datasets (Ucmerced dataset, WHU-RS19 dataset, and RSSCN7 dataset) are shown as follows. `/` denotes that the result is distorted.
 
 ### 3.1. SDGSAT-1 Satellite
 
