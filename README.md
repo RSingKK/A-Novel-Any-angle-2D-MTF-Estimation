@@ -36,7 +36,7 @@ More qualitative and quantitative comparison results on SDGSAT-1 satellite and p
 
 ### 3.1. SDGSAT-1 Satellite
 
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/SDGSAT-1_compare.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/SDGSAT-1_compare_new.png?raw=true)
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/SDGSAT-1_comparex.png?raw=true)
 
 ### 3.2. UCMerced Dataset
