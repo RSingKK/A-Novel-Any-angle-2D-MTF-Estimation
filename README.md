@@ -17,7 +17,7 @@
 5. Step Five: SSIR_Assessment.py
 
 
-**The advantages of Ours Method are that not only can directly perform SSIR on single satellite scene image but also can retain origin radiometric information as much as possible.**
+**The advantages of Our Method are that not only can directly perform SSIR on single satellite scene image but also can retain origin radiometric information as much as possible.**
 
 ## 2. Results Presentation
 
