@@ -24,7 +24,7 @@
 ## 2.1. LR & HR
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/parkinglot_compare.png?raw=true" width="500px">](https://imgsli.com/MjE1NzI2)
 
-[<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/airport_compare.png?raw=true" width="500px">](https://imgsli.com/MjE1ODkz)
+[<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/airport_compare_new.png?raw=true" width="500px">](https://imgsli.com/MjE1ODkz)
 
 ### 2.2. SSIR Processing Steps
 ![airplane](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/airplane_gif.gif?raw=true)  
