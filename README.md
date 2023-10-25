@@ -32,9 +32,9 @@ HR is corrected by our methods.
 
 ### 2.2. SSIR Iteration Process Results of Using Newton's method (LR to HR)
 
-<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/airplane_GiF.gif?raw=true" width="500px">
-
 <img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/parkinglot_GIF.gif?raw=true" width="500px">
+
+<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/airplane_GiF.gif?raw=true" width="500px">
 
 ## 3. More Comparison Results
 More qualitative and quantitative comparison results on SDGSAT-1 satellite and public datasets (Ucmerced dataset, WHU-RS19 dataset, and RSSCN7 dataset) are shown as follows. `/` denotes that the result is distorted.
