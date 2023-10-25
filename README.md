@@ -31,9 +31,9 @@ HR is corrected by our methods.
 
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/parkinglot_compare.png?raw=true" width="500px">](https://imgsli.com/MjE1NzI2)
 
-### 2.2. SSIR Iteration Process Results of Using Newton's method
+### 2.2. SSIR Iteration Process Results of Using Newton's method (LR to HR)
 
-<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/airplane_Gif.gif?raw=true" width="500px">
+<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/airplane_GIF.gif?raw=true" width="500px">
 
 ![sparseresidential_gif](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/sparseresidential_gif.gif?raw=true)
 
