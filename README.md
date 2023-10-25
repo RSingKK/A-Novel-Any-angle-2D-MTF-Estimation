@@ -29,7 +29,6 @@ HR is corrected by our methods.
 
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/Urban_new.png?raw=true" width="500px">](https://imgsli.com/MjE1OTk0)
 
-[<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/parkinglot_compare.png?raw=true" width="500px">](https://imgsli.com/MjE1NzI2)
 
 ### 2.2. SSIR Iteration Process Results of Using Newton's method (LR to HR)
 
