@@ -7,7 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-### For Example  Samples for Estimating 2D MTF Using Two Dimensional Gaussian function
+### For Example  Samples for Estimating 2D MTF Using Two Dimensional Gaussian function ### x denotes column and y denotes row
 x = [0,0,0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.1, 0.2, 0.3, 0.4, 0.5, 0.059546516, 0.119093032, 0.178639548, 0.238186063, 0.297732579]
 y = [0,0,0, 0.022220583, 0.044441166, 0.06666175, 0.088882333, 0.111102916, 0.060778114, 0.121556229, 0.182334343, 0.243112457, 0.303890572, 0.1, 0.2, 0.3, 0.4, 0.5]
 z = [math.log(1), math.log(1), math.log(1), math.log(0.774378342), math.log(0.420633691), math.log(0.190032075), math.log(0.074638962), math.log(0.018506903), math.log(0.697358079), math.log(0.364317657), math.log(0.173864195), math.log(0.036178541), math.log(0.017509105), math.log(0.695323749), math.log(0.426842564), math.log(0.198426071), math.log(0.00419143), math.log(0.000232453)]
