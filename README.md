@@ -57,7 +57,7 @@ More qualitative and quantitative comparison results on SDGSAT-1 satellite and p
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/chaparral66.png?raw=true)
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/chaparral66x.png?raw=true)
 
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/parkinglot50.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/parkinglot_.png?raw=true)
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/parkinglot50x.png?raw=true)
 
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/sparseresidential99.png?raw=true)
