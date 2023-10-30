@@ -1,4 +1,4 @@
-# A Novel Any-angle 2D MTF Estimation for Single Satellite Image Super-Resolution
+# Any-angle 2D MTF Estimation for Single Satellite Image Super-Resolution
 ## 1. Python Supported
 ### 1.1. Version
 1. GDAL--3.4.3
@@ -13,11 +13,11 @@
 1. Step one: Automaticly extract edge-objects with any-angle. Automatic_Any_Angle_Roi_Selection.py
 2. Step Two: Calculate 1D MTF of each edge-object with any-angle. Calculate_1D_MTF.py
 3. Step Three: Use two demisional Gaussian function to estimate 2D MTF. Fit_Gaussian_2D_MTF.py
-4. Step Four: Perform SSIR on single satellite scene image. Image_MTF_SSIR.py
+4. Step Four: Perform SISR on single satellite scene image. Image_MTF_SSIR.py
 5. Step Five: SSIR_Assessment.py
 
 
-**The advantages of Our Method are that not only can directly perform SSIR on single satellite scene image but also can retain origin radiometric information as much as possible.**
+**The advantages of Our Method are that not only can directly perform SISR on single satellite scene image but also can retain origin radiometric information as much as possible.**
 
 ## 2. Results Presentation
 
@@ -29,7 +29,7 @@ HR is corrected by our methods.
 
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/Urban_new.png?raw=true" width="500px">](https://imgsli.com/MjE1OTk0)
 
-### 2.2. SSIR Iteration Process Results of Our method (LR to HR)
+### 2.2. SISR Iteration Process Results of Our method (LR to HR)
 
 <img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/parkinglot_GIF.gif?raw=true" width="400px"> 
 
