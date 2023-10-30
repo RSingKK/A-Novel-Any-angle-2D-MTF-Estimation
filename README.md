@@ -14,7 +14,7 @@
 2. Step Two: Calculate 1D MTF of each edge-object with any-angle. Calculate_1D_MTF.py
 3. Step Three: Use two demisional Gaussian function to estimate 2D MTF. Fit_Gaussian_2D_MTF.py
 4. Step Four: Perform SISR on single satellite scene image. Image_MTF_SSIR.py
-5. Step Five: SSIR_Assessment.py
+5. Step Five: SISR_Assessment.py
 
 
 **The advantages of Our Method are that not only can directly perform SISR on single satellite scene image but also can retain origin radiometric information as much as possible.**
