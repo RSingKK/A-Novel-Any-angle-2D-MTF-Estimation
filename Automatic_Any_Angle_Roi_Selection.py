@@ -88,6 +88,7 @@ for file_i in range(1):
 
             image_data = image_.copy()
             image_data_GLCM = image_.copy()
+            image_data_denoising = image_.copy()
 
             image_data_255 = (image_data - np.min(image_data)) / (np.max(image_data) - np.min(image_data)) * 255
             image_data_255 = image_data_255.astype(np.uint8)
@@ -96,7 +97,7 @@ for file_i in range(1):
             image_data_GLCM = image_data_GLCM.astype(np.uint8)
 
             ##
-            image_data_denoising = (image_data - np.min(image_data)) / (np.max(image_data) - np.min(image_data)) * 255
+            image_data_denoising = (image_data_denoising - np.min(image_data_denoising)) / (np.max(image_data_denoising) - np.min(image_data_denoising)) * 255
             image_data_denoising = image_data_denoising.astype(np.float32)
             image_data_denoising = sim_DCT(image_data_denoising, height, width)
             image_data_denoising = image_data_denoising.astype(np.uint8)
