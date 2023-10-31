@@ -256,7 +256,7 @@ class Compute_MTF(object):
 
             strip_cropped = self.data[i, bound_edge_left:bound_edge_right]    # 8 pixels
             strip_cropped = np.unique(strip_cropped)
-            if self.threshold[i] < np.max(strip_cropped) and self.threshold[i] > np.min(strip_cropped) and (app_edge[0][0] - 6) > 0 and (app_edge[0][0] - 6) < column:
+            if self.threshold[i] < np.max(strip_cropped) and self.threshold[i] > np.min(strip_cropped) and (app_edge[0][0] - 6) > 0 and (app_edge[0][0] + 7) < column:
                 temp_y = np.arange(1, strip_cropped.size + 1)
                 # f = interpolate.interp1d(strip_cropped, temp_y, kind='cubic')
                 # edge_pos_temp = f(self.threshold[i])
