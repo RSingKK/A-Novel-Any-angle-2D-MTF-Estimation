@@ -10,8 +10,8 @@
 7. matplotlib--3.7.0
 8. scikit-image--0.20.0
 ##
-1. Step one: Automaticly extract edge-objects with any-angle. Automatic_Any_Angle_Roi_Selection.py
-2. Step Two: Calculate 1D MTF of each edge-object with any-angle. Calculate_1D_MTF.py
+1. Step one: Automaticly extract edge objects with any-angle. Automatic_Any_Angle_Roi_Selection.py
+2. Step Two: Calculate 1D MTF of each edge object with any-angle. Calculate_1D_MTF.py
 3. Step Three: Use two demisional Gaussian function to estimate 2D MTF. Fit_Gaussian_2D_MTF.py
 4. Step Four: Perform SISR on single satellite scene image. Image_MTF_SISR.py
 5. Step Five: SISR_Assessment.py
