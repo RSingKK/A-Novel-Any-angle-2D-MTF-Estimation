@@ -24,7 +24,7 @@ def deal(data,filename):
     df = pd.DataFrame(company_name_list)
     df.to_excel(filename, index=False)
 
-def sim_DCT(img, im_height, im_width):
+def sim_DCT(img, height, width):
 
     img_dct = cv2.dct(img)
     I = np.zeros((im_height, im_width))
