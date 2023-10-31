@@ -27,8 +27,8 @@ def deal(data,filename):
 def sim_DCT(img, height, width):
 
     img_dct = cv2.dct(img)
-    I = np.zeros((im_height, im_width))
-    I[0:im_height // 2, 0:im_width // 2] = 1
+    I = np.zeros((height, width))
+    I[0:height // 2, 0:width // 2] = 1
     I_dct = img_dct * I
     img_denoising = cv2.idct(I_dct)
     return img_denoising
