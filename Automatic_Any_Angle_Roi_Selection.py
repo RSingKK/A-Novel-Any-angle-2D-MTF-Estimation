@@ -164,7 +164,7 @@ for file_i in range(1):
 
                         left_mean = np.mean(rotate_block[:,0:14])
                         right_mean = np.mean(rotate_block[:,15:30])
-                        left_GLCM = graycomatrix(rotate_block_GLCM[:,0:13], [2], [0], 256, symmetric=True, normed=True)
+                        left_GLCM = graycomatrix(rotate_block_GLCM[:,0:14], [2], [0], 256, symmetric=True, normed=True)
                         left_IDM = graycoprops(left_GLCM, prop='homogeneity')
                         right_GLCM = graycomatrix(rotate_block_GLCM[:,15:29], [2], [0], 256, symmetric=True, normed=True)
                         right_IDM = graycoprops(right_GLCM, prop='homogeneity')
