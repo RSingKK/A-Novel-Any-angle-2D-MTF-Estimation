@@ -204,33 +204,38 @@ class Compute_MTF(object):
         plt.title("Detected Edge")
 
         row_edge, col_edge = np.where(edges == 255)
+        if row_edge.size == 0 or col_edge.size == 0:
+            print("No Edge Found!")
+        else:
+            z = np.polyfit(np.flipud(col_edge), row_edge, 1)     # Calculate incidence angle of edge
 
-        z = np.polyfit(np.flipud(col_edge), row_edge, 1)     # Calculate incidence angle of edge
+            angle_radians = np.arctan(z[0])
+            angle_deg = angle_radians * (180/math.pi)
+            print("edge angle:" + str(angle_deg))
+            if abs(angle_deg) < 45:
+                self.data = np.transpose(self.data)
 
-        angle_radians = np.arctan(z[0])
-        angle_deg = angle_radians * (180/math.pi)
-        print("edge angle:" + str(angle_deg))
-        if abs(angle_deg) < 45:
-            self.data = np.transpose(self.data)
+            im_height_new = self.data.shape[0]
+            im_width_new = self.data.shape[1]
 
-        im_height_new = self.data.shape[0]
-        im_width_new = self.data.shape[1]
+            _, th = cv2.threshold(self.data, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
+            th = th.astype(np.int32)
 
-        _, th = cv2.threshold(self.data, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
-        th = th.astype(np.int32)
+            self.threshold = np.empty([im_height_new])
+            for ii in range(im_height_new):
+                below_thresh = ((self.data[ii] >= th[ii]) & (self.data[ii] <= self.max))   # Find 0 position in binary image
 
-        self.threshold = np.empty([im_height_new])
-        for ii in range(im_height_new):
-            below_thresh = ((self.data[ii] >= th[ii]) & (self.data[ii] <= self.max))   # Find 0 position in binary image
+                above_thresh = ((self.data[ii] >= self.min) & (self.data[ii] <= th[ii]))   # Find 255 position in binary image
 
-            above_thresh = ((self.data[ii] >= self.min) & (self.data[ii] <= th[ii]))   # Find 255 position in binary image
+                area_below_thresh = self.data[ii][below_thresh].sum() / below_thresh.sum()
+                area_above_thresh = self.data[ii][above_thresh].sum() / above_thresh.sum()
 
-            area_below_thresh = self.data[ii][below_thresh].sum() / below_thresh.sum()
-            area_above_thresh = self.data[ii][above_thresh].sum() / above_thresh.sum()
+                self.threshold[ii] = (area_below_thresh + area_above_thresh) / 2           #Calculate the gray value threshold of edge in each row
 
-            self.threshold[ii] = (area_below_thresh + area_above_thresh) / 2           #Calculate the gray value threshold of edge in each row
+            self.compute_esf()
+            
 
-        self.compute_esf()
+
 #
     def compute_esf(self):
 
