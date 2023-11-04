@@ -185,7 +185,8 @@ for file_i in range(1):
                             dataset_vertical.GetRasterBand(1).WriteArray(rotate_block)
                             dataset_vertical = None
 
-                            angle.append(rotate_radians)
+                            # angle.append(rotate_radians)
+                            angle.append(angle_radians)
 
                             i = i + 1
 #### Save rotation angle file
