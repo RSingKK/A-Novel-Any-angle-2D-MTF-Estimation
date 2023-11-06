@@ -17,7 +17,7 @@
 5. Step Five: SISR_Assessment.py
 
 
-**The advantages of Our Method are that not only can directly perform SISR on single satellite scene image but also can retain origin radiometric information as much as possible.**
+**The advantages of Our Method are that not only can directly perform SISR on single satellite scene image with superior speed but also can preserve origin radiometric information as much as possible.**
 
 ## 2. Results Presentation
 
