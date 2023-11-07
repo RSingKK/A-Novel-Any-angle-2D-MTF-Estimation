@@ -21,7 +21,7 @@
 
 ## 2. Results Presentation
 
-## 2.1. LR & HR
+### 2.1. LR & HR
 
 HR is corrected by our methods.
 
@@ -94,13 +94,13 @@ More qualitative and quantitative comparison results on SDGSAT-1 satellite and p
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/g392.png?raw=true)
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/g392x.png?raw=true)
 
-## 4. Batch Processing of Raw Images
+## 4. Automatic Processing of Raw Images
 
-The batch processing of 9 raw scene images using our proposed method can further validate the generation.
+The automatic processing of 9 raw scene images using our proposed method can further validate the generation.
 
 Some results extracted from 9 scene images are showcased as follows:
 
-
+### 3.4. RSSCN7 Dataset
 
 
 
