@@ -27,7 +27,7 @@ Ours is corrected by the proposed method.
 
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/airport_compare_new.png?raw=true" width="500px">](https://imgsli.com/MjE5MDY1) 
 
-[<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/Urban_new.png?raw=true" width="500px">](https://imgsli.com/MjE5MDY3)
+[<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/Urban_Compare.png?raw=true" width="500px">](https://imgsli.com/MjE5MDY3)
 
 ### 2.2. Iteration Process of Sharpen Results using Our method (LR to Sharpen)
 
