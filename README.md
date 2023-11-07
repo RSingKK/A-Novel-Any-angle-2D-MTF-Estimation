@@ -21,7 +21,7 @@
 
 ## 2. Results Presentation
 
-### 2.1. Raw & Ours
+### 2.1. Raw Image & Ours
 
 Ours is corrected by the proposed methods.
 
