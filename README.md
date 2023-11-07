@@ -21,15 +21,15 @@
 
 ## 2. Results Presentation
 
-### 2.1. LR & HR
+### 2.1. Raw & Ours
 
-HR is corrected by our methods.
+Ours is corrected by the proposed methods.
 
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/airport_compare.png?raw=true" width="500px">](https://imgsli.com/MjE2MzY0) 
 
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/Urban_new.png?raw=true" width="500px">](https://imgsli.com/MjE1OTk0)
 
-### 2.2. SISR Iteration Process Results of Our method (LR to HR)
+### 2.2. Sharpen Iteration Process Results of Our method (LR to Sharpen)
 
 <img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/parkinglot_GIF.gif?raw=true" width="400px"> 
 
