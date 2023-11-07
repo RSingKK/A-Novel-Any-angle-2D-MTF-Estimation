@@ -98,7 +98,7 @@ More qualitative and quantitative comparison results on SDGSAT-1 satellite and p
 
 The automated processing of 9 raw scene images captured over the course of one year using our proposed method can further validate the generation.
 
-Some results extracted from 9 scene images are showcased as follows:
+Some results extracted from 9 scene images are showcased:
 
 ### 4.1. Scene captured at 21/12/2022
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing/20221221/11_2_imgsli.png?raw=true" width="250px">](https://imgsli.com/MjE4OTU2)
