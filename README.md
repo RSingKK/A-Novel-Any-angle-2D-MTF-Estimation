@@ -29,7 +29,7 @@ Ours is corrected by the proposed methods.
 
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/Urban_new.png?raw=true" width="500px">](https://imgsli.com/MjE1OTk0)
 
-### 2.2. Sharpen Iteration Process Results of Our method (LR to Sharpen)
+### 2.2. Iteration Process of Sharpen Results using Our method (LR to Sharpen)
 
 <img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/parkinglot_GIF.gif?raw=true" width="400px"> 
 
