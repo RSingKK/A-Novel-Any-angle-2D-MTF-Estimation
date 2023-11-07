@@ -1,4 +1,4 @@
-![image](https://github.com/RSingKK/Any-angle-MTF/assets/49096921/147f3844-8b20-4493-b752-57065f4f4e66)# Any-angle 2D MTF Estimation for Single Satellite Image Super-Resolution
+# Any-angle 2D MTF Estimation for Single Satellite Image Super-Resolution
 ## 1. Python Supported
 ### 1.1. Version
 1. GDAL--3.4.3
