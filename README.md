@@ -136,7 +136,7 @@ Some results extracted from 9 scene images are showcased:
 ### 4.8. Scene captured at 07/08/2023
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing/20230807/13_3_imgsli.png?raw=true" width="250px">](https://imgsli.com/MjE5MDE5) 
 
-### 4.9. Scene captured at 07/08/2023
+### 4.9. Scene captured at 14/09/2023
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing/20230914/1_1_imgsli.png?raw=true" width="250px">](https://imgsli.com/MjE5MDEy) 
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing/20230914/14_3_imgsli.png?raw=true" width="250px">](https://imgsli.com/MjE5MDE2) 
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing/20230914/14_5_imgsli.png?raw=true" width="250px">](https://imgsli.com/MjE5MDE1) 
