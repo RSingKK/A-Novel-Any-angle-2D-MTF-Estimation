@@ -23,7 +23,7 @@
 
 ### 2.1. Raw Image & Ours
 
-Ours is corrected by the proposed methods.
+Ours is corrected by the proposed method.
 
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/airport_compare_new.png?raw=true" width="500px">](https://imgsli.com/MjE5MDY1) 
 
