@@ -31,7 +31,7 @@ Ours is corrected by the proposed method.
 
 ### 2.2. Iteration Process of Sharpen Results using Our method (LR to Sharpen)
 
-<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/parkinglot_GIF.gif?raw=true" width="400px"> 
+<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/parkinglot_GIF_new.gif?raw=true" width="400px"> 
 
 <img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/airplane_GiF_.gif?raw=true" width="400px">
 
