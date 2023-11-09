@@ -106,7 +106,8 @@ The results of some different ground objects extracted from 9 scene images are s
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing/20221221/11_2_imgsli.png?raw=true" width="250px">](https://imgsli.com/MjE4OTU2) 
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing/20221221/6_3_imgsli.png?raw=true" width="250px">](https://imgsli.com/MjE4OTU1) 
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing/20221221/1_2_imgsli.png?raw=true" width="250px">](https://imgsli.com/MjE4OTU0)
-[<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Time_Testing/Scene1.png?raw=true" width="250px">]
+
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Time_Testing/Scene1.png?raw=true)
 
 ### 4.2. Scene captured at 11/01/2023
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing/20230111/3_2_imgsli.png?raw=true" width="250px">](https://imgsli.com/MjE4OTU3) 
