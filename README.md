@@ -98,7 +98,7 @@ More qualitative and quantitative comparison results on SDGSAT-1 satellite and p
 
 The automated processing of 9 raw scene images captured over the course of one year using our proposed method can further validate the generation.
 
-We also counted the SISR processing time for each raw scene image using different methods.
+We also compare the super-resolution processing time for each raw scene image using different methods.
 
 The results of some different ground objects extracted from 9 scene images are showcased:
 
