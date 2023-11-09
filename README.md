@@ -40,59 +40,59 @@ More qualitative and quantitative comparison results on SDGSAT-1 satellite and p
 
 ### 3.1. SDGSAT-1 Satellite
 
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/SDGSAT-1_compare_new.png?raw=true)
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/SDGSAT-1_comparex.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/SDGSAT-1_water.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/SDGSAT-1_water_x.png?raw=true)
 
 ### 3.2. UCMerced Dataset
 
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/airplane51.png?raw=true)
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/airplane51x.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/airplane_51.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/airplane_51_x.png?raw=true)
 
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/beach75.png?raw=true)
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/beach75x.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/beach75_x.png?raw=true)
 
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/beach85.png?raw=true)
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/beach85x.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/beach85_x.png?raw=true)
 
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/chaparral66.png?raw=true)
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/chaparral66x.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/charparral66.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/charparral66_x.png?raw=true)
 
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/parkinglot_.png?raw=true)
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/parkinglot50x.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/parkinglot50.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/parkinglot50_x.png?raw=true)
 
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/sparseresidential99.png?raw=true)
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/sparseresidential99x.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/sparseresidential99_x.png?raw=true)
 
 ### 3.3. WHU-RS19 Dataset
 
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/Desert_20.png?raw=true)
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/Desert_20x.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/Desert_20_x.png?raw=true)
 
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/river_21.png?raw=true)
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/river_21x.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/river_21_x.png?raw=true)
 
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/Mountain_01.png?raw=true)
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/Mountain_01x.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/Mountain_01_x.png?raw=true)
 
 ### 3.4. RSSCN7 Dataset
 
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/e251.png?raw=true)
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/e251x.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/e251_x.png?raw=true)
 
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/e273.png?raw=true)
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/e273x.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/e273_x.png?raw=true)
 
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/g246.png?raw=true)
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/g246x.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/g246_x.png?raw=true)
 
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/g297.png?raw=true)
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/g297x.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/g297_x.png?raw=true)
 
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/g391.png?raw=true)
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/g391x.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/g391_x.png?raw=true)
 
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/g392.png?raw=true)
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/g392x.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/g392_x.png?raw=true)
 
 ## 4. Automatic Processing of Raw Images
 
