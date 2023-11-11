@@ -18,7 +18,7 @@
 
 **The advantages of Our Method are following aspects:**
 
-**Efficiency: It can directly perform SISR on single satellite scene image with superior speed.** 
+**Efficiency: It can directly perform sharpening and SISR on single satellite scene image with superior speed.** 
 
 **Parameter Setting: It only needs to set one adjustable parameter in the proposed method.**
 
