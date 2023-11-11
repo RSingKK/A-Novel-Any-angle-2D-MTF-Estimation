@@ -26,7 +26,7 @@
 
 **(4) Automation: It fulfills the automatic sharpening process during the radiometic correction of raw satellite images in the Satellite Ground Station System.**
 
-## 2. Results Presentation
+## 2. Sharpening Results Presentation
 
 ### 2.1. Raw Image & Ours
 
