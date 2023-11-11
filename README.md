@@ -18,13 +18,13 @@
 
 **The advantages of Our Method are following aspects:**
 
-**Efficiency: It can directly perform sharpening and SISR on single satellite scene image with superior speed.** 
+**(1) Efficiency: It can directly perform sharpening and SISR on single satellite scene image with superior speed.** 
 
-**Parameter Setting: It only needs to set one adjustable parameter in the proposed method.**
+**(2) Parameter Setting: It only needs to set one adjustable parameter in the proposed method.**
 
-**Preservation: It can preserve origin radiometric information as much as possible.**
+**(3) Preservation: It can preserve origin radiometric information as much as possible.**
 
-**Automation: It fulfills the automatic sharpening process during the radiometic correction of raw satellite images in the satellite ground station.**
+**(4) Automation: It fulfills the automatic sharpening process during the radiometic correction of raw satellite images in the satellite ground station.**
 
 ## 2. Results Presentation
 
