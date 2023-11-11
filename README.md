@@ -18,7 +18,9 @@
 
 **The advantages of Our Method are following aspects:**
 
-**Speed: It can directly perform SISR on single satellite scene image with superior speed.** 
+**Efficiency: It can directly perform SISR on single satellite scene image with superior speed.** 
+
+**Parameter Setting: It only needs to set one adjustable parameter in the proposed method.**
 
 **Preservation: It can preserve origin radiometric information as much as possible.**
 
