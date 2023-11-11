@@ -24,7 +24,7 @@
 
 **(3) Preservation: It can preserve origin radiometric information as much as possible.**
 
-**(4) Automation: It fulfills the automatic sharpening process during the radiometic correction of raw satellite images in the satellite ground station.**
+**(4) Automation: It fulfills the automatic sharpening process during the radiometic correction of raw satellite images in the Satellite Ground Station System.**
 
 ## 2. Results Presentation
 
