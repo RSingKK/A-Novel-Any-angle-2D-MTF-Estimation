@@ -16,8 +16,13 @@
 4. Step Four: Perform Sharpening on single satellite scene image. Image_MTF_Sharpen.py
 5. Step Five: Assessment.py
 
+**The advantages of Our Method are following aspects:**
 
-**The advantages of Our Method are that not only can directly perform SISR on single satellite scene image with superior speed but also can preserve origin radiometric information as much as possible.**
+**Speed: It can directly perform SISR on single satellite scene image with superior speed.** 
+
+**Preservation: It can preserve origin radiometric information as much as possible.**
+
+**Automation: It fulfills the automatic sharpening process during the radiometic correction of satellite raw images.**
 
 ## 2. Results Presentation
 
@@ -96,7 +101,7 @@ More qualitative and quantitative comparison results on SDGSAT-1 satellite and p
 
 ## 4. Automatic Processing of Raw Images
 
-The automated processing of 9 raw scene images captured over the course of one year using our proposed method can further validate the generation.
+The automated processing of 9 raw scene images captured over the course of one year using our proposed method can further validate the efficacy and automation of the generation process.
 
 We also compare the super-resolution processing time for each raw scene image using different methods.
 
