@@ -101,9 +101,9 @@ More qualitative and quantitative comparison results on SDGSAT-1 satellite and p
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Public%20Datasets/g392.png?raw=true)
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Public%20Datasets/g392_x.png?raw=true)
 
-## 4. Automatic Processing of Raw Images
+## 4. Automatic Generation of Raw Images
 
-The automated processing of 9 raw scene images captured over the course of one year using our proposed method can further validate the efficacy and automation of the generation process.
+The automatic processing of 9 raw scene images captured over the course of one year using our proposed method can further validate the efficacy and automation of the generation process.
 
 We also compare the super-resolution processing time for each raw scene image using different methods.
 
