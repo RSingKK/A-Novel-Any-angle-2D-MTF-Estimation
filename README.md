@@ -22,7 +22,7 @@
 
 **(2) Parameter Setting: It only needs to set one adjustable parameter in the proposed method.**
 
-**(3) Preservation: It can preserve origin radiometric information as much as possible.**
+**(3) Preservation: It can diligently preserve origin radiometric information.**
 
 **(4) Automation: It fulfills the automatic sharpening process during the radiometic correction of raw satellite images in the Satellite Ground Station System.**
 
