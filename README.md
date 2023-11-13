@@ -24,7 +24,9 @@
 
 **(3) Preservation: It diligently preserves origin radiometric information.**
 
-**(4) Automation: It fulfills the automatic sharpening process during the radiometic correction of raw satellite images in the Satellite Ground Station System.**
+**(4) Low complexity: It does not rely on HR images as reference.**
+
+**(5) Automation: It fulfills the automatic sharpening process during the radiometic correction of raw satellite images in the Satellite Ground Station System.**
 
 ## 2. Sharpening Results Presentation
 
