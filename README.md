@@ -107,7 +107,7 @@ More qualitative and quantitative comparison results on SDGSAT-1 satellite and p
 
 ## 4. Reuse of One-time Estimation on Raw Images
 
-The raw satellite images are without any radiometric or geometric correction. For a specified sensor, the imaging degradation remains fixed over a certain period, meaning that the one-time estimated 2D MTF can be repeatedly applied to various raw images for an extended duration. We apply a estimated 2D MTF from one raw scene image to directly process 9 satellite raw scene images captured over one year. This further demonstrates the universality and reliability of the proposed method.
+The raw satellite images are without any radiometric or geometric correction. For a specified sensor, the imaging degradation remains fixed over a certain period, meaning that the one-time estimated 2D MTF can be repeatedly applied to various raw images for an extended duration. We apply a estimated 2D MTF from one raw scene image to directly process 9 raw scene images captured by SDGSAT-1 over one year. This further demonstrates the universality and reliability of the proposed method.
 
 We also compare the super-resolution processing time for each raw scene image using different methods.
 
