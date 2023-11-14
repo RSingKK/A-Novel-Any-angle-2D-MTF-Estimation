@@ -20,13 +20,15 @@
 
 **(1) Efficiency: It can directly perform sharpening and SISR on a single satellite scene image, offering superior speed with minimal computational memory requirements.** 
 
-**(2) Parameter Setting: It only needs to set one adjustable parameter in the proposed method.**
+**(2) Parameter Setting: It only has a single tunable parameter in the proposed method.**
 
-**(3) Preservation: It diligently preserves origin radiometric information.**
+**(3) Preservation: It effectively preserves origin radiometric information.**
 
 **(4) Low complexity: It does not rely on HR images as reference.**
 
-**(5) Automation: It fulfills the automatic sharpening/SISR process during the radiometic correction of raw satellite images in the Satellite Ground Station System.**
+**(5) Re-use: One-time estimated 2D MTF can be repeatedly applied to various raw images for an extended duration.**
+
+**(6) Automation: It fulfills the automatic sharpening/SISR process during the radiometic correction of raw satellite images in the Satellite Ground Station System.**
 
 ## 2. Sharpening Results Presentation
 
