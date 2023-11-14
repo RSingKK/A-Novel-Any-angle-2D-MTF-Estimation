@@ -26,7 +26,7 @@
 
 **(4) Low complexity: It does not rely on HR images as reference.**
 
-**(5) Re-use: One-time estimated 2D MTF can be repeatedly applied to various raw images for an extended duration.**
+**(5) Reuse: One-time estimated 2D MTF can be repeatedly applied to various raw images for an extended duration.**
 
 **(6) Automation: It fulfills the automatic sharpening/SISR process during the radiometic correction of raw satellite images in the Satellite Ground Station System.**
 
@@ -105,9 +105,9 @@ More qualitative and quantitative comparison results on SDGSAT-1 satellite and p
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Public%20Datasets/g392.png?raw=true)
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Public%20Datasets/g392_x.png?raw=true)
 
-## 4. Automatic Generation of Raw Images
+## 4. Reuse of One-time Estimation on Raw Images
 
-The automatic processing of 9 raw scene images captured over the course of one year using our proposed method can further validate the efficacy and automation of the generation process.
+The raw satellite images are without any radiometric or geometric correction. For a specified sensor, the imaging degradation remains fixed over a certain period, meaning that the one-time estimated 2D MTF can be repeatedly applied to various raw images for an extended duration. We reuse one 2D MTF estimated by a single scene to process 9 raw scene images captured over one year. This can further validate the efficacy and automation of the generation process.
 
 We also compare the super-resolution processing time for each raw scene image using different methods.
 
