@@ -147,9 +147,9 @@ The results of some different ground objects extracted from 9 scene images are s
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Time_Testing/Scene5.png?raw=true)
 
 ### 4.6. Scene captured at 13/05/2023
-[<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20230513/0_5_imgsli.png?raw=true" width="250px">](https://imgsli.com/MjIxNDM0) 
-[<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20230513/15_2_imgsli.png?raw=true" width="250px">](https://imgsli.com/MjIxNDQx) 
-[<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20230513/2_2_imgsli.png?raw=true" width="250px">](https://imgsli.com/MjIxNDM2) 
+[<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20230513/0_5_imgsli.png?raw=true" width="250px" height = "250px">](https://imgsli.com/MjIxNDM0) 
+[<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20230513/15_2_imgsli.png?raw=true" width="250px" height = "250px">](https://imgsli.com/MjIxNDQx) 
+[<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20230513/2_2_imgsli.png?raw=true" width="250px" height = "250px">](https://imgsli.com/MjIxNDM2) 
 
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Time_Testing/Scene6.png?raw=true)
 
