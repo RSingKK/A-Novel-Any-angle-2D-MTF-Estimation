@@ -134,7 +134,7 @@ The results of some different ground objects extracted from 9 scene images are s
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Time_Testing/Scene3.png?raw=true)
 
 ### 4.4. Scene captured at 30/03/2023
-[<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing/20230330/0_6_imgsli.png?raw=true" width="250px">](https://imgsli.com/MjE4OTc2) 
+[<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20230330/0_6_imgsli.png?raw=true" width="250px" height = "300px">](https://imgsli.com/MjE4OTc2) 
 
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Time_Testing/Scene4.png?raw=true)
 
