@@ -13,7 +13,7 @@
 1. Step one: Automaticly extract edge objects with any-angle. Automatic_Any_Angle_Roi_Selection.py
 2. Step Two: Calculate 1D MTF of each edge object with any-angle. Calculate_1D_MTF_RANSAC.py
 3. Step Three: Use two demisional Gaussian function to estimate 2D MTF. Fit_Gaussian_2D_MTF.py
-4. Step Four: Perform Sharpening/SSIR on single satellite scene image. Image_MTF_Sharpen.py
+4. Step Four: Perform Sharpening/SSIR on single satellite scene image. Image_MTF_Sharpen_SISR.py
 5. Step Five: Assessment.py
 
 **The advantages of Our Method are following aspects:**
