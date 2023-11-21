@@ -114,9 +114,9 @@ We also compare the super-resolution processing time for each raw scene image us
 The results of some different ground objects extracted from 9 scene images are showcased:
 
 ### 4.1. Scene captured at 21/12/2022
-[<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing/20221221/11_2_imgsli.png?raw=true" width="250px">](https://imgsli.com/MjE4OTU2) 
-[<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing/20221221/6_3_imgsli.png?raw=true" width="250px">](https://imgsli.com/MjE4OTU1) 
-[<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing/20221221/1_2_imgsli.png?raw=true" width="250px">](https://imgsli.com/MjE4OTU0)
+[<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20221221/11_2_imgsli.png?raw=true" width="250px" height = "250px">](https://imgsli.com/MjIxMzc2) 
+[<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20221221/6_3_imgsli.png?raw=true" width="250px" height = "250px">](https://imgsli.com/MjIxMzc1) 
+[<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20221221/1_2_imgsli.png?raw=true" width="250px" height = "250px">](https://imgsli.com/MjIxMzcy)
 
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Time_Testing/Scene1.png?raw=true)
 
