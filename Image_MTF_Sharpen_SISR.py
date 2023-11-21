@@ -166,7 +166,7 @@ for band in range(3):  #RGB Image
     # iimg_[iimg_ > 4096] = 4096
     iimg_[iimg_ > 255] = 255
     iimg_x2 = iimg_[0:im_width,0:im_height]
-    ### Save SSIR results
+    ### Save SISR results
     dataset.GetRasterBand(band+1).WriteArray(iimg_x2)
 
 
