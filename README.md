@@ -40,7 +40,7 @@ Ours is corrected by the proposed method.
 
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/Urban_Compare.png?raw=true" width="500px">](https://imgsli.com/MjE5MDY3)
 
-### 2.2. Iteration Process of Sharpening Results using Our method (LR to Sharpen)
+### 2.2. Iteration Process of Sharpening Results using Our method
 
 <img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/parkinglot_GIF_new.gif?raw=true" width="400px"> 
 
