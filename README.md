@@ -47,12 +47,12 @@ Ours is corrected by the proposed method.
 <img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures/airplane_GiF_new.gif?raw=true" width="400px">
 
 ## 3. Extended Applications on Single Image Super-Resolution (SISR)
-More qualitative and quantitative comparison results on SDGSAT-1 satellite and public datasets (Ucmerced dataset, WHU-RS19 dataset, and RSSCN7 dataset) are shown as follows. `/` denotes that the result is distorted.
+More qualitative and quantitative comparison results on public datasets (Ucmerced dataset, WHU-RS19 dataset, and RSSCN7 dataset) are shown as follows. `/` denotes that the result is distorted.
 
 ### 3.1. UCMerced Dataset
 
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Public%20Datasets/airplane51.png?raw=true)
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Public%20Datasets/airplane51_x.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures%20new/airplane51.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Some%20uploaded%20pictures%20new/airplane51_.png?raw=true)
 
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Public%20Datasets/beach75.png?raw=true)
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Public%20Datasets/beach75_x.png?raw=true)
