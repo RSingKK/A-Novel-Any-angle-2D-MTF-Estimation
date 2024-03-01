@@ -49,12 +49,7 @@ Ours is corrected by the proposed method.
 ## 3. Extended Applications on Single Image Super-Resolution (SISR)
 More qualitative and quantitative comparison results on SDGSAT-1 satellite and public datasets (Ucmerced dataset, WHU-RS19 dataset, and RSSCN7 dataset) are shown as follows. `/` denotes that the result is distorted.
 
-### 3.1. SDGSAT-1 Satellite
-
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Public%20Datasets/SDGSAT-1_water.png?raw=true)
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Public%20Datasets/SDGSAT-1_water_x.png?raw=true)
-
-### 3.2. UCMerced Dataset
+### 3.1. UCMerced Dataset
 
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Public%20Datasets/airplane51.png?raw=true)
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Public%20Datasets/airplane51_x.png?raw=true)
@@ -74,7 +69,7 @@ More qualitative and quantitative comparison results on SDGSAT-1 satellite and p
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Public%20Datasets/sparseresidential99.png?raw=true)
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Public%20Datasets/sparseresidential99_x.png?raw=true)
 
-### 3.3. WHU-RS19 Dataset
+### 3.2. WHU-RS19 Dataset
 
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Public%20Datasets/Desert_20.png?raw=true)
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Public%20Datasets/Desert_20_x.png?raw=true)
@@ -85,7 +80,7 @@ More qualitative and quantitative comparison results on SDGSAT-1 satellite and p
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Public%20Datasets/Mountain_01.png?raw=true)
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Public%20Datasets/Mountain_01_x.png?raw=true)
 
-### 3.4. RSSCN7 Dataset
+### 3.3. RSSCN7 Dataset
 
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Public%20Datasets/e251.png?raw=true)
 ![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Public%20Datasets/e251_x.png?raw=true)
