@@ -1,4 +1,4 @@
-# Any-angle 2D MTF Estimation for Single Satellite Image Sharpening
+#Single Satellite Image Sharpening with Any-angle 2D MTF Estimation
 ## 1. Python Supported
 ### 1.1. Version
 1. GDAL--3.4.3
