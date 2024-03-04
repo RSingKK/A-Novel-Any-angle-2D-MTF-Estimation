@@ -113,25 +113,25 @@ The results of some different ground objects extracted from 9 scene images are s
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20221221/6_3_imgsli.png?raw=true" width="250px" height = "250px">](https://imgsli.com/MjIxMzc1) 
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20221221/1_2_imgsli.png?raw=true" width="250px" height = "250px">](https://imgsli.com/MjIxMzcy)
 
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Time_Testing/Scene1.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Time_Testing_all/Scene1.png?raw=true)
 
 ### 4.2. Scene captured at 11/01/2023
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20230111/3_2_imgsli.png?raw=true" width="250px" height = "250px">](https://imgsli.com/MjE4OTU3) 
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20230111/3_6_imgsli.png?raw=true" width="250px" height = "250px">](https://imgsli.com/MjIxMzc3)
 
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Time_Testing/Scene2.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Time_Testing_all/Scene2.png?raw=true)
 
 ### 4.3. Scene captured at 15/01/2023
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20230115/1_0_imgsli.png?raw=true" width="250px" height = "250px">](https://imgsli.com/MjIxMzgw) 
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20230115/1_5_imgsli.png?raw=true" width="250px" height = "250px">](https://imgsli.com/MjIxMzgy) 
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20230115/8_2_imgsli.png?raw=true" width="250px" height = "250px">](https://imgsli.com/MjIxMzg0)
 
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Time_Testing/Scene3.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Time_Testing_all/Scene3.png?raw=true)
 
 ### 4.4. Scene captured at 30/03/2023
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20230330/0_6_imgsli.png?raw=true" width="250px" height = "300px">](https://imgsli.com/MjE4OTc2) 
 
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Time_Testing/Scene4.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Time_Testing_all/Scene4.png?raw=true)
 
 ### 4.5. Scene captured at 07/05/2023
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20230507/0_2_imgsli.png?raw=true" width="250px" height = "250px">](https://imgsli.com/MjIxNDA1) 
@@ -139,31 +139,31 @@ The results of some different ground objects extracted from 9 scene images are s
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20230507/8_2_imgsli.png?raw=true" width="250px" height = "250px">](https://imgsli.com/MjIxNDI4) 
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20230507/8_6_imgsli.png?raw=true" width="250px" height = "250px">](https://imgsli.com/MjIxNDI5)
 
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Time_Testing/Scene5.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Time_Testing_all/Scene5.png?raw=true)
 
 ### 4.6. Scene captured at 13/05/2023
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20230513/0_5_imgsli.png?raw=true" width="250px" height = "250px">](https://imgsli.com/MjIxNDM0) 
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20230513/15_2_imgsli.png?raw=true" width="250px" height = "250px">](https://imgsli.com/MjIxNDQx) 
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20230513/2_2_imgsli.png?raw=true" width="250px" height = "250px">](https://imgsli.com/MjIxNDM2) 
 
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Time_Testing/Scene6.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Time_Testing_all/Scene6.png?raw=true)
 
 ### 4.7. Scene captured at 13/07/2023
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20230713/3_0_imgsli.png?raw=true" width="250px" height = "200px">](https://imgsli.com/MjIxNTI0) 
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20230713/3_1_imgsli.png?raw=true" width="250px" height = "200px">](https://imgsli.com/MjIxNDUz) 
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20230713/6_0_imgsli.png?raw=true" width="250px" height = "200px">](https://imgsli.com/MjIxNTI5) 
 
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Time_Testing/Scene7.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Time_Testing_all/Scene7.png?raw=true)
 
 ### 4.8. Scene captured at 07/08/2023
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20230807/13_3_imgsli.png?raw=true" width="250px" height = "200px">](https://imgsli.com/MjIxNTQ3) 
 
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Time_Testing/Scene8.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Time_Testing_all/Scene8.png?raw=true)
 
 ### 4.9. Scene captured at 14/09/2023
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20230914/1_1_imgsli.png?raw=true" width="150px" height = "250px">](https://imgsli.com/MjIxNTUw) 
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20230914/14_3_imgsli.png?raw=true" width="150px" height = "250px">](https://imgsli.com/MjIxNTY5) 
 [<img src="https://github.com/RSingKK/Any-angle-MTF/blob/main/Automated_Processing_new/20230914/14_5_imgsli.png?raw=true" width="200px" height = "250px">](https://imgsli.com/MjE5MDE1) 
 
-![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Time_Testing/Scene9.png?raw=true)
+![image](https://github.com/RSingKK/Any-angle-MTF/blob/main/Time_Testing_all/Scene9.png?raw=true)
 
